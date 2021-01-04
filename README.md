@@ -41,13 +41,13 @@ graduating from UPES in 2021.
 <a href="mailto:divyanshuguptaososofficial@gmail.com">
   <img align="left" alt="Divyanshu's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
-
+<br/>
 ------------------------------
 
 ### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
 ------------------------------
-![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=divyanshuguptaososofficial&show_icons=true&theme=dark)
+![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=divyanshuguptaososofficial&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuguptaososofficial&layout=compact&theme=dark)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=divyanshuguptaososofficial&color=blue">
