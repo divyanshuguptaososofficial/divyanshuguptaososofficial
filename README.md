@@ -18,7 +18,6 @@ graduating from UPES in 2021.
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Firebase" width="26px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/1a/75/18/1a7518c2-aad2-7ce3-28f7-22b526384ff0/AppIcon-0-2x-4-0-85-220.png/230x0w.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -34,7 +33,6 @@ graduating from UPES in 2021.
 
 ### Connect with me:
 
-[<img align="left" alt="Nikhil | Portfolio" width="22px" src="https://github.com/NikhilMishra1999/NikhilMishra1999/blob/master/favicon-32x32.png" />][portfolio]
 [<img align="left" alt="Nikhil | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
 [<img align="left" alt="Nikhil | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
 [<img align="left" alt="Nikhil | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
@@ -53,9 +51,8 @@ graduating from UPES in 2021.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=NikhilMishra1999&color=blue">
 
-[twitter]: https://twitter.com/YoungstersInc17
-[instagram]: https://www.instagram.com/highfunctioning.psychopath/
-[linkedin]: https://www.linkedin.com/in/nikhilmishra1999/
-[portfolio]: https://nikhil.studio/
-[Resume]: https://drive.google.com/file/d/12LZkAamOmFPlXRlCna-8G15-ggMxJ59h/view?usp=sharing
+[twitter]: https://twitter.com/8divyanshugupta
+[instagram]: https://www.instagram.com/divyaanshu__gupta/
+[linkedin]: https://www.linkedin.com/in/divyanshu-gupta-97b0a1193/
+[Resume]: https://docs.google.com/document/d/1qvTtpCiEltrnhiYzJLlW_-Vtz9dK8v7eM2NhNKNQF7w/edit?usp=sharing
 
