@@ -31,10 +31,16 @@ graduating from UPES in 2021.
 ------------------------------
 
 ### Connect with me:
+<a href="https://twitter.com/8divyanshugupta">
+  <img align="left" alt="Divyanshu's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
 
-[<img align="left" alt="Divyanshu's  | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
-[<img align="left" alt="Divyanshu's  | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
-[<img align="left" alt="Divyanshu's  | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
+<a href=" https://www.linkedin.com/in/divyanshu-gupta-97b0a1193/">
+  <img align="left" alt="Divyanshu's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+<a href=" https://www.instagram.com/divyaanshu__gupta/">
+  <img align="left" alt="Divyanshu's Instagram" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />
+</a>
 <a href="mailto:divyanshuguptaososofficial@gmail.com">
   <img align="left" alt="Divyanshu's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
