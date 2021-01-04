@@ -38,9 +38,6 @@ graduating from UPES in 2021.
 <a href=" https://www.linkedin.com/in/divyanshu-gupta-97b0a1193/">
   <img align="left" alt="Divyanshu's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
-<a href=" https://www.instagram.com/divyaanshu__gupta/">
-  <img align="left" alt="Divyanshu's Instagram" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />
-</a>
 <a href="mailto:divyanshuguptaososofficial@gmail.com">
   <img align="left" alt="Divyanshu's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
