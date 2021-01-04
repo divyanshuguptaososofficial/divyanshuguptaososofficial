@@ -41,7 +41,6 @@ graduating from UPES in 2021.
 <a href="mailto:divyanshuguptaososofficial@gmail.com">
   <img align="left" alt="Divyanshu's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
-<br />
 
 ------------------------------
 
