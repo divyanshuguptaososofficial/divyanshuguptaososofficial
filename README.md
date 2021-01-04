@@ -44,10 +44,8 @@ graduating from UPES in 2021.
 ### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
 ------------------------------
-
-<img align="left" alt="Divyanshu Gupta stats" src="https://github-readme-stats.vercel.app/api?username=divyanshuguptaososofficial&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuguptaososofficial&theme=dark)
+![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=divyanshuguptaososofficial&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuguptaososofficial&layout=compact&theme=dark)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=divyanshuguptaososofficial&color=blue">
 
