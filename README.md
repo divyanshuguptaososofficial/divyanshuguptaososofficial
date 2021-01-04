@@ -45,14 +45,14 @@ graduating from UPES in 2021.
 
 ------------------------------
 
-<img align="left" alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NikhilMishra1999&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
+<img align="left" alt="Divyanshu Gupta stats" src="https://github-readme-stats.vercel.app/api?username=divyanshuguptaososofficial&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMishra1999&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuguptaososofficial&theme=dark)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=NikhilMishra1999&color=blue">
+<img align="right" src="https://komarev.com/ghpvc/?username=divyanshuguptaososofficialcolor=blue">
 
 [twitter]: https://twitter.com/8divyanshugupta
 [instagram]: https://www.instagram.com/divyaanshu__gupta/
 [linkedin]: https://www.linkedin.com/in/divyanshu-gupta-97b0a1193/
-[Resume]: https://docs.google.com/document/d/1qvTtpCiEltrnhiYzJLlW_-Vtz9dK8v7eM2NhNKNQF7w/edit?usp=sharing
+[Resume]: https://drive.google.com/file/d/12650_O5iR6m_wpFnAsnz5kRcn8EKadH9/view?usp=sharing
 
