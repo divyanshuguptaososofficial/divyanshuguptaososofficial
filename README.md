@@ -49,7 +49,7 @@ graduating from UPES in 2021.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuguptaososofficial&theme=dark)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=divyanshuguptaososofficialcolor=blue">
+<img align="right" src="https://komarev.com/ghpvc/?username=divyanshuguptaososofficial&color=blue">
 
 [twitter]: https://twitter.com/8divyanshugupta
 [instagram]: https://www.instagram.com/divyaanshu__gupta/
