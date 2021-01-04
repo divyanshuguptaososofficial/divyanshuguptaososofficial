@@ -43,6 +43,7 @@ graduating from UPES in 2021.
 </a>
 <br />
 
+------------------------------
 ### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
 ------------------------------
