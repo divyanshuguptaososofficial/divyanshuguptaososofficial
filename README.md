@@ -42,6 +42,7 @@ graduating from UPES in 2021.
   <img align="left" alt="Divyanshu's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 <br />
+<br />
 
 ------------------------------
 ### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
