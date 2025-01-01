@@ -9,7 +9,6 @@
 💻 **GitHub**: [divyanshuguptaososofficial](https://github.com/divyanshuguptaososofficial)
 
 ---
-### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
 ## 👨‍💻 About Me
 
