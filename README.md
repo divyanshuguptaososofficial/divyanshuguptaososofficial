@@ -33,8 +33,6 @@ I am a highly skilled **Software Engineer** with over **3 years of experience** 
 
 <br />
 <br />
-------------------------------
-
 
 ## 🚀 Technical Skills
 
