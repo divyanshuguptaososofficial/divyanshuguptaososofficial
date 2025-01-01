@@ -2,7 +2,7 @@
 ### <h2>  Hi there, I am Divyanshu 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-## I am a Android and Software Developer!
+## I am a Software Developer!
 - 😄 ENFJ | Team Player | Strong Leadership Skills
 - Area of Expertise
 - > Skilled in Java,Front-end Development, Backend Developement, Kotlin, React-Native , Firebase. Strong Android development professional with an interest in Open Source Domain,
